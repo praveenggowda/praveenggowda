@@ -18,8 +18,8 @@ Senior Software Engineer with 14 years of experience building distributed system
 🛠️ Tech Stack
 
 C# | .NET | Python | AWS | Terraform | Kafka
-Kubernetes | DynamoDB | PostgreSQL | Docker
-Microservices | CI/CD | Distributed Systems
+| Kubernetes | DynamoDB | PostgreSQL | Docker
+| Microservices | CI/CD | Distributed Systems
 
 📚 Current Repositories
 
