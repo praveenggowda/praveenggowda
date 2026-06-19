@@ -1,16 +1,38 @@
-## Hi there 👋
+Hi, I’m Praveen Girish 👋
 
-<!--
-**praveenggowda/praveenggowda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Software Engineer with 14 years of experience building distributed systems and cloud-native platforms at scale.
 
-Here are some ideas to get you started:
+🚀 Currently Focused On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Python
+* System Design
+* AI Engineering
+* Platform Engineering
+
+💼 Professional Experience
+
+* Built a notification platform processing 10M+ emails per day across European markets.
+* Extensive experience designing and operating cloud-native microservices on AWS.
+* Passionate about scalable systems, developer productivity, and distributed architectures.
+
+🛠️ Tech Stack
+
+C# | .NET | Python | AWS | Terraform | Kafka
+Kubernetes | DynamoDB | PostgreSQL | Docker
+Microservices | CI/CD | Distributed Systems
+
+📚 Current Repositories
+
+* 🔹 python-dsa
+* 🔹 system-design
+* 🔹 python-for-csharp-developers
+
+🌱 Currently Learning
+
+* Python
+* AI Agents
+* Advanced System Design
+
+📫 Connect With Me
+
+* LinkedIn: www.linkedin.com/in/praveenggowda
